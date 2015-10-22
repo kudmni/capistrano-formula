@@ -2,4 +2,4 @@
 capistrano-formula
 ================
 
-A saltstack formula for capistrano installation
+A saltstack formula for capistrano installation (Debian only)
